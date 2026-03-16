@@ -727,11 +727,11 @@
 		"mihoyo_circlet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15030_3.png"
 	},
 	"marechausseehunter": {
-		"flower": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15031_4.png",
-		"plume": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15031_2.png",
-		"sands": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15031_5.png",
-		"goblet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15031_1.png",
-		"circlet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15031_3.png",
+		"flower": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Item_Hunter%27s_Brooch.png",
+		"plume": "https://static.wikia.nocookie.net/gensin-impact/images/1/1b/Item_Masterpiece%27s_Overture.png",
+		"sands": "https://static.wikia.nocookie.net/gensin-impact/images/2/25/Item_Moment_of_Judgment.png",
+		"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/3/3b/Item_Forgotten_Vessel.png",
+		"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Item_Veteran%27s_Visage.png",
 		"filename_flower": "UI_RelicIcon_15031_4",
 		"filename_plume": "UI_RelicIcon_15031_2",
 		"filename_sands": "UI_RelicIcon_15031_5",
@@ -744,11 +744,11 @@
 		"mihoyo_circlet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15031_3.png"
 	},
 	"goldentroupe": {
-		"flower": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15032_4.png",
-		"plume": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15032_2.png",
-		"sands": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15032_5.png",
-		"goblet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15032_1.png",
-		"circlet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15032_3.png",
+		"flower": "https://static.wikia.nocookie.net/gensin-impact/images/4/4d/Item_Golden_Song%27s_Variation.png",
+		"plume": "https://static.wikia.nocookie.net/gensin-impact/images/8/83/Item_Golden_Bird%27s_Shedding.png",
+		"sands": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Item_Golden_Era%27s_Prelude.png",
+		"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Item_Golden_Night%27s_Bustle.png",
+		"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/f/f6/Item_Golden_Troupe%27s_Reward.png",
 		"filename_flower": "UI_RelicIcon_15032_4",
 		"filename_plume": "UI_RelicIcon_15032_2",
 		"filename_sands": "UI_RelicIcon_15032_5",
@@ -761,6 +761,11 @@
 		"mihoyo_circlet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15032_3.png"
 	},
 	"songofdayspast": {
+		"flower": "https://static.wikia.nocookie.net/gensin-impact/images/4/4b/Item_Forgotten_Oath_of_Days_Past.png",
+		"plume": "https://static.wikia.nocookie.net/gensin-impact/images/f/fc/Item_Recollection_of_Days_Past.png",
+		"sands": "https://static.wikia.nocookie.net/gensin-impact/images/6/62/Item_Echoing_Sound_From_Days_Past.png",
+		"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/1/16/Item_Promised_Dream_of_Days_Past.png",
+		"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/d/db/Item_Poetry_of_Days_Past.png",
 		"filename_flower": "UI_RelicIcon_15033_4",
 		"filename_plume": "UI_RelicIcon_15033_2",
 		"filename_sands": "UI_RelicIcon_15033_5",
@@ -773,6 +778,11 @@
 		"mihoyo_circlet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15033_3.png"
 	},
 	"nighttimewhispersintheechoingwoods": {
+		"flower": "https://static.wikia.nocookie.net/gensin-impact/images/9/9f/Item_Selfless_Floral_Accessory.png",
+		"plume": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/Item_Honest_Quill.png",
+		"sands": "https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Item_Faithful_Hourglass.png",
+		"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/2/24/Item_Magnanimous_Ink_Bottle.png",
+		"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Item_Compassionate_Ladies%27_Hat.png",
 		"filename_flower": "UI_RelicIcon_15034_4",
 		"filename_plume": "UI_RelicIcon_15034_2",
 		"filename_sands": "UI_RelicIcon_15034_5",
@@ -785,6 +795,11 @@
 		"mihoyo_circlet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15034_3.png"
 	},
 	"fragmentofharmonicwhimsy": {
+		"flower": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Item_Harmonious_Symphony_Prelude.png",
+		"plume": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Item_Ancient_Sea%27s_Nocturnal_Musing.png",
+		"sands": "https://static.wikia.nocookie.net/gensin-impact/images/8/8e/Item_The_Grand_Jape_of_the_Turning_of_Fate.png",
+		"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/5/50/Item_Ichor_Shower_Rhapsody.png",
+		"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/b/ba/Item_Whimsical_Dance_of_the_Withered.png",
 		"filename_flower": "UI_RelicIcon_15035_4",
 		"filename_plume": "UI_RelicIcon_15035_2",
 		"filename_sands": "UI_RelicIcon_15035_5",
@@ -797,6 +812,11 @@
 		"mihoyo_circlet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15035_3.png"
 	},
 	"unfinishedreverie": {
+		"flower": "https://static.wikia.nocookie.net/gensin-impact/images/f/f5/Item_Dark_Fruit_of_Bright_Flowers.png",
+		"plume": "https://static.wikia.nocookie.net/gensin-impact/images/f/f3/Item_Faded_Emerald_Tail.png",
+		"sands": "https://static.wikia.nocookie.net/gensin-impact/images/7/76/Item_Moment_of_Attainment.png",
+		"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/d/d8/Item_The_Wine-Flask_Over_Which_the_Plan_Was_Hatched.png",
+		"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/5/5f/Item_Crownless_Crown.png",
 		"filename_flower": "UI_RelicIcon_15036_4",
 		"filename_plume": "UI_RelicIcon_15036_2",
 		"filename_sands": "UI_RelicIcon_15036_5",
@@ -809,6 +829,11 @@
 		"mihoyo_circlet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15036_3.png"
 	},
 	"scrolloftheheroofcindercity": {
+		"flower": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Item_Beast_Tamer%27s_Talisman.png",
+		"plume": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Item_Mountain_Ranger%27s_Marker.png",
+		"sands": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Item_Mystic%27s_Gold_Dial.png",
+		"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/b/b8/Item_Wandering_Scholar%27s_Claw_Cup.png",
+		"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Item_Demon-Warrior%27s_Feather_Mask.png",
 		"filename_flower": "UI_RelicIcon_15037_4",
 		"filename_plume": "UI_RelicIcon_15037_2",
 		"filename_sands": "UI_RelicIcon_15037_5",
@@ -821,6 +846,11 @@
 		"mihoyo_circlet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15037_3.png"
 	},
 	"obsidiancodex": {
+		"flower": "https://static.wikia.nocookie.net/gensin-impact/images/8/86/Item_Reckoning_of_the_Xenogenic.png",
+		"plume": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Item_Root_of_the_Spirit-Marrow.png",
+		"sands": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Item_Myths_of_the_Night_Realm.png",
+		"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/9/99/Item_Pre-Banquet_of_the_Contenders.png",
+		"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/4/4d/Item_Crown_of_the_Saints.png",
 		"filename_flower": "UI_RelicIcon_15038_4",
 		"filename_plume": "UI_RelicIcon_15038_2",
 		"filename_sands": "UI_RelicIcon_15038_5",
@@ -833,6 +863,11 @@
 		"mihoyo_circlet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15038_3.png"
 	},
 	"longnightsoath": {
+		"flower": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Item_Lightkeeper%27s_Pledge.png",
+		"plume": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Item_Nightingale%27s_Tail_Feather.png",
+		"sands": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Item_Undying_One%27s_Mourning_Bell.png",
+		"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/3/31/Item_A_Horn_Unwinded.png",
+		"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/2/27/Item_Dyed_Tassel.png",
 		"filename_flower": "UI_RelicIcon_15039_4",
 		"filename_plume": "UI_RelicIcon_15039_2",
 		"filename_sands": "UI_RelicIcon_15039_5",
@@ -845,6 +880,11 @@
 		"mihoyo_circlet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15039_3.png"
 	},
 	"finaleofthedeepgalleries": {
+		"flower": "https://static.wikia.nocookie.net/gensin-impact/images/8/87/Deep_Gallery%27s_Echoing_Song.png",
+		"plume": "https://static.wikia.nocookie.net/gensin-impact/images/7/75/Item_Deep_Gallery%27s_Distant_Pact.png",
+		"sands": "https://static.wikia.nocookie.net/gensin-impact/images/6/62/Item_Deep_Gallery%27s_Moment_of_Oblivion.png",
+		"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/c/c8/Item_Deep_Gallery%27s_Bestowed_Banquet.png",
+		"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/f/f6/Item_Deep_Gallery%27s_Lost_Crown.png",
 		"filename_flower": "UI_RelicIcon_15040_4",
 		"filename_plume": "UI_RelicIcon_15040_2",
 		"filename_sands": "UI_RelicIcon_15040_5",
@@ -857,6 +897,11 @@
 		"mihoyo_circlet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15040_3.png"
 	},
 	"nightoftheskysunveiling": {
+		"flower": "https://static.wikia.nocookie.net/gensin-impact/images/1/1b/Item_Bloom_of_the_Mind%27s_Desire.png",
+		"plume": "https://static.wikia.nocookie.net/gensin-impact/images/7/7a/Item_Feather_of_Indelible_Sin.png",
+		"sands": "https://static.wikia.nocookie.net/gensin-impact/images/1/15/Item_Revelation%27s_Toll.png",
+		"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/c/c8/Item_Vessel_of_Plenty.png",
+		"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Item_Crown_of_the_Befallen.png",
 		"filename_flower": "UI_RelicIcon_15041_4",
 		"filename_plume": "UI_RelicIcon_15041_2",
 		"filename_sands": "UI_RelicIcon_15041_5",
@@ -869,6 +914,11 @@
 		"mihoyo_circlet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15041_3.png"
 	},
 	"silkenmoonsserenade": {
+		"flower": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Item_Crystal_Tear_of_the_Wanderer.png",
+		"plume": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Item_Pristine_Plume_of_the_Blessed.png",
+		"sands": "https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Item_Frost_Devotee%27s_Delirium.png",
+		"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Item_Joyous_Glory_of_the_Pure.png",
+		"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Item_Holy_Crown_of_the_Believer.png",
 		"filename_flower": "UI_RelicIcon_15042_4",
 		"filename_plume": "UI_RelicIcon_15042_2",
 		"filename_sands": "UI_RelicIcon_15042_5",
@@ -881,6 +931,11 @@
 		"mihoyo_circlet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15042_3.png"
 	},
 	"aubadeofmorningstarandmoon": {
+		"flower": "https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Item_Moonlit_Offering%27s_Opulent_Dream.png",
+		"plume": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Item_Moonlit_Offering%27s_Parting_Light.png",
+		"sands": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Item_Moonlit_Offering%27s_Final_Hour.png",
+		"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/6/63/Item_Moonlit_Offering%27s_Libation.png",
+		"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/5/54/Item_Moonlit_Offering%27s_Silver_Crown.png",
 		"filename_flower": "UI_RelicIcon_15043_4",
 		"filename_plume": "UI_RelicIcon_15043_2",
 		"filename_sands": "UI_RelicIcon_15043_5",
@@ -893,6 +948,11 @@
 		"mihoyo_circlet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15043_3.png"
 	},
 	"adaycarvedfromrisingwinds": {
+		"flower": "https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Item_Windborne_Flower%27s_Spruchdichtung.png",
+		"plume": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Item_Dawn%27s_Brilliant_Oath.png",
+		"sands": "https://static.wikia.nocookie.net/gensin-impact/images/b/bd/Item_A_Note_in_Spring%27s_Leich.png",
+		"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Heldenepos%27s_Unspoken_Tale.png",
+		"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/4/4f/Item_Minnesang_of_Love_and_Lament.png",
 		"filename_flower": "UI_RelicIcon_15044_4",
 		"filename_plume": "UI_RelicIcon_15044_2",
 		"filename_sands": "UI_RelicIcon_15044_5",

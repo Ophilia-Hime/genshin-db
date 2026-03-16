@@ -172,6 +172,7 @@
 	},
 	"festeringdesire": {
 		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Magnum.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Weapon_Festering_Desire_2nd.png",
 		"filename_icon": "UI_EquipIcon_Sword_Magnum",
 		"filename_awakenIcon": "UI_EquipIcon_Sword_Magnum_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Sword_Magnum",
@@ -189,6 +190,7 @@
 	},
 	"cinnabarspindle": {
 		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Opus.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4a/Weapon_Cinnabar_Spindle_2nd.png",
 		"filename_icon": "UI_EquipIcon_Sword_Opus",
 		"filename_awakenIcon": "UI_EquipIcon_Sword_Opus_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Sword_Opus",
@@ -485,6 +487,7 @@
 	},
 	"luxurioussealord": {
 		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_MillenniaTuna.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/9/9f/Weapon_Luxurious_Sea-Lord_2nd.png",
 		"filename_icon": "UI_EquipIcon_Claymore_MillenniaTuna",
 		"filename_awakenIcon": "UI_EquipIcon_Claymore_MillenniaTuna_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Claymore_MillenniaTuna",
@@ -511,6 +514,7 @@
 	},
 	"akuoumaru": {
 		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Maria.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Weapon_Akuoumaru_2nd.png",
 		"filename_icon": "UI_EquipIcon_Claymore_Maria",
 		"filename_awakenIcon": "UI_EquipIcon_Claymore_Maria_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Claymore_Maria",
@@ -564,6 +568,7 @@
 	},
 	"redhornstonethresher": {
 		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Itadorimaru.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/1/18/Weapon_Redhorn_Stonethresher_2nd.png",
 		"filename_icon": "UI_EquipIcon_Claymore_Itadorimaru",
 		"filename_awakenIcon": "UI_EquipIcon_Claymore_Itadorimaru_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Claymore_Itadorimaru",
@@ -680,6 +685,7 @@
 	},
 	"royalspear": {
 		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Theocrat.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/9/92/Weapon_Royal_Spear_2nd.png",
 		"filename_icon": "UI_EquipIcon_Pole_Theocrat",
 		"filename_awakenIcon": "UI_EquipIcon_Pole_Theocrat_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Pole_Theocrat",
@@ -688,6 +694,7 @@
 	},
 	"dragonspinespear": {
 		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Everfrost.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/f/fb/Weapon_Dragonspine_Spear_2nd.png",
 		"filename_icon": "UI_EquipIcon_Pole_Everfrost",
 		"filename_awakenIcon": "UI_EquipIcon_Pole_Everfrost_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Pole_Everfrost",
@@ -705,6 +712,7 @@
 	},
 	"thecatch": {
 		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Mori.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Weapon_The_Catch_2nd.png",
 		"filename_icon": "UI_EquipIcon_Pole_Mori",
 		"filename_awakenIcon": "UI_EquipIcon_Pole_Mori_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Pole_Mori",
@@ -713,6 +721,7 @@
 	},
 	"wavebreakersfin": {
 		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Maria.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e4/Weapon_Wavebreaker%27s_Fin_2nd.png",
 		"filename_icon": "UI_EquipIcon_Pole_Maria",
 		"filename_awakenIcon": "UI_EquipIcon_Pole_Maria_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Pole_Maria",
@@ -775,6 +784,7 @@
 	},
 	"calamityqueller": {
 		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Santika.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/5/58/Weapon_Calamity_Queller_2nd.png",
 		"filename_icon": "UI_EquipIcon_Pole_Santika",
 		"filename_awakenIcon": "UI_EquipIcon_Pole_Santika_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Pole_Santika",
@@ -783,6 +793,7 @@
 	},
 	"engulfinglightning": {
 		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Narukami.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Weapon_Engulfing_Lightning_2nd.png",
 		"filename_icon": "UI_EquipIcon_Pole_Narukami",
 		"filename_awakenIcon": "UI_EquipIcon_Pole_Narukami_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Pole_Narukami",
@@ -953,6 +964,7 @@
 	},
 	"frostbearer": {
 		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Everfrost.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/b/bb/Weapon_Frostbearer_2nd.png",
 		"filename_icon": "UI_EquipIcon_Catalyst_Everfrost",
 		"filename_awakenIcon": "UI_EquipIcon_Catalyst_Everfrost_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Catalyst_Everfrost",
@@ -979,6 +991,7 @@
 	},
 	"oathsworneye": {
 		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Jyanome.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/0/0c/Weapon_Oathsworn_Eye_2nd.png",
 		"filename_icon": "UI_EquipIcon_Catalyst_Jyanome",
 		"filename_awakenIcon": "UI_EquipIcon_Catalyst_Jyanome_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Catalyst_Jyanome",
@@ -1041,6 +1054,7 @@
 	},
 	"kagurasverity": {
 		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Narukami.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/1/1a/Weapon_Kagura%27s_Verity_2nd.png",
 		"filename_icon": "UI_EquipIcon_Catalyst_Narukami",
 		"filename_awakenIcon": "UI_EquipIcon_Catalyst_Narukami_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Catalyst_Narukami",
@@ -1256,6 +1270,7 @@
 	},
 	"predator": {
 		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Predator.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Weapon_Predator_2nd.png",
 		"filename_icon": "UI_EquipIcon_Bow_Predator",
 		"filename_awakenIcon": "UI_EquipIcon_Bow_Predator_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Bow_Predator",
@@ -1264,6 +1279,7 @@
 	},
 	"mouunsmoon": {
 		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Maria.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e6/Weapon_Mouun%27s_Moon_2nd.png",
 		"filename_icon": "UI_EquipIcon_Bow_Maria",
 		"filename_awakenIcon": "UI_EquipIcon_Bow_Maria_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Bow_Maria",
@@ -1317,6 +1333,7 @@
 	},
 	"polarstar": {
 		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Worldbane.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/0/09/Weapon_Polar_Star_2nd.png",
 		"filename_icon": "UI_EquipIcon_Bow_Worldbane",
 		"filename_awakenIcon": "UI_EquipIcon_Bow_Worldbane_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Bow_Worldbane",
@@ -1387,8 +1404,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Morax_Awaken.png"
 	},
 	"ibispiercer": {
-		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Ibis.png",
-		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Ibis_Awaken.png",
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Weapon_Ibis_Piercer.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Weapon_Ibis_Piercer_2nd.png",
 		"filename_icon": "UI_EquipIcon_Bow_Ibis",
 		"filename_awakenIcon": "UI_EquipIcon_Bow_Ibis_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Bow_Ibis",
@@ -1405,8 +1422,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Boreas_Awaken.png"
 	},
 	"finaleofthedeep": {
-		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Vorpal.png",
-		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Vorpal_Awaken.png",
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/5a/Weapon_Finale_of_the_Deep.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Weapon_Finale_of_the_Deep_2nd.png",
 		"filename_icon": "UI_EquipIcon_Sword_Vorpal",
 		"filename_awakenIcon": "UI_EquipIcon_Sword_Vorpal_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Sword_Vorpal",
@@ -1414,8 +1431,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Vorpal_Awaken.png"
 	},
 	"fleuvecendreferryman": {
-		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Machination.png",
-		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Machination_Awaken.png",
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7e/Weapon_Fleuve_Cendre_Ferryman.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Weapon_Fleuve_Cendre_Ferryman_2nd.png",
 		"filename_icon": "UI_EquipIcon_Sword_Machination",
 		"filename_awakenIcon": "UI_EquipIcon_Sword_Machination_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Sword_Machination",
@@ -1423,8 +1440,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Machination_Awaken.png"
 	},
 	"talkingstick": {
-		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_BeastTamer.png",
-		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_BeastTamer_Awaken.png",
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/28/Weapon_Talking_Stick.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/c/c8/Weapon_Talking_Stick_2nd.png",
 		"filename_icon": "UI_EquipIcon_Claymore_BeastTamer",
 		"filename_awakenIcon": "UI_EquipIcon_Claymore_BeastTamer_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Claymore_BeastTamer",
@@ -1432,8 +1449,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_BeastTamer_Awaken.png"
 	},
 	"tidalshadow": {
-		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Vorpal.png",
-		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Vorpal_Awaken.png",
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Weapon_Tidal_Shadow.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Weapon_Tidal_Shadow_2nd.png",
 		"filename_icon": "UI_EquipIcon_Claymore_Vorpal",
 		"filename_awakenIcon": "UI_EquipIcon_Claymore_Vorpal_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Claymore_Vorpal",
@@ -1441,8 +1458,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Vorpal_Awaken.png"
 	},
 	"balladofthefjords": {
-		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Shanty.png",
-		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Shanty_Awaken.png",
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/82/Weapon_Ballad_of_the_Fjords.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Weapon_Ballad_of_the_Fjords_2nd.png",
 		"filename_icon": "UI_EquipIcon_Pole_Shanty",
 		"filename_awakenIcon": "UI_EquipIcon_Pole_Shanty_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Pole_Shanty",
@@ -1450,8 +1467,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Shanty_Awaken.png"
 	},
 	"rightfulreward": {
-		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Vorpal.png",
-		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Vorpal_Awaken.png",
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Weapon_Rightful_Reward.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/d/dc/Weapon_Rightful_Reward_2nd.png",
 		"filename_icon": "UI_EquipIcon_Pole_Vorpal",
 		"filename_awakenIcon": "UI_EquipIcon_Pole_Vorpal_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Pole_Vorpal",
@@ -1459,8 +1476,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Vorpal_Awaken.png"
 	},
 	"sacrificialjade": {
-		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Yue.png",
-		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Yue_Awaken.png",
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/86/Weapon_Sacrificial_Jade.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/7/79/Weapon_Sacrificial_Jade_2nd.png",
 		"filename_icon": "UI_EquipIcon_Catalyst_Yue",
 		"filename_awakenIcon": "UI_EquipIcon_Catalyst_Yue_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Catalyst_Yue",
@@ -1468,8 +1485,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Yue_Awaken.png"
 	},
 	"flowingpurity": {
-		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Vorpal.png",
-		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Vorpal_Awaken.png",
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Weapon_Flowing_Purity.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Weapon_Flowing_Purity_2nd.png",
 		"filename_icon": "UI_EquipIcon_Catalyst_Vorpal",
 		"filename_awakenIcon": "UI_EquipIcon_Catalyst_Vorpal_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Catalyst_Vorpal",
@@ -1477,8 +1494,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Vorpal_Awaken.png"
 	},
 	"scionoftheblazingsun": {
-		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Gurabad.png",
-		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Gurabad_Awaken.png",
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/83/Weapon_Scion_of_the_Blazing_Sun.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/f/f3/Weapon_Scion_of_the_Blazing_Sun_2nd.png",
 		"filename_icon": "UI_EquipIcon_Bow_Gurabad",
 		"filename_awakenIcon": "UI_EquipIcon_Bow_Gurabad_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Bow_Gurabad",
@@ -1486,8 +1503,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Gurabad_Awaken.png"
 	},
 	"songofstillness": {
-		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Vorpal.png",
-		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Vorpal_Awaken.png",
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/bd/Weapon_Song_of_Stillness.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/2/21/Weapon_Song_of_Stillness_2nd.png",
 		"filename_icon": "UI_EquipIcon_Bow_Vorpal",
 		"filename_awakenIcon": "UI_EquipIcon_Bow_Vorpal_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Bow_Vorpal",
@@ -1495,8 +1512,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Vorpal_Awaken.png"
 	},
 	"thefirstgreatmagic": {
-		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Pledge.png",
-		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Pledge_Awaken.png",
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/03/Weapon_The_First_Great_Magic.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Weapon_The_First_Great_Magic_2nd.png",
 		"filename_icon": "UI_EquipIcon_Bow_Pledge",
 		"filename_awakenIcon": "UI_EquipIcon_Bow_Pledge_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Bow_Pledge",
@@ -1504,6 +1521,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Pledge_Awaken.png"
 	},
 	"thedockhandsassistant": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/e/eb/Weapon_The_Dockhand%27s_Assistant.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b1/Weapon_The_Dockhand%27s_Assistant_2nd.png",
 		"filename_icon": "UI_EquipIcon_Sword_Mechanic",
 		"filename_awakenIcon": "UI_EquipIcon_Sword_Mechanic_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Sword_Mechanic",
@@ -1511,6 +1530,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Mechanic_Awaken.png"
 	},
 	"portablepowersaw": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/49/Weapon_Portable_Power_Saw.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/4/40/Weapon_Portable_Power_Saw_2nd.png",
 		"filename_icon": "UI_EquipIcon_Claymore_Mechanic",
 		"filename_awakenIcon": "UI_EquipIcon_Claymore_Mechanic_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Claymore_Mechanic",
@@ -1518,6 +1539,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Mechanic_Awaken.png"
 	},
 	"prospectorsdrill": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b1/Weapon_Prospector%27s_Drill.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a9/Weapon_Prospector%27s_Drill_2nd.png",
 		"filename_icon": "UI_EquipIcon_Pole_Mechanic",
 		"filename_awakenIcon": "UI_EquipIcon_Pole_Mechanic_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Pole_Mechanic",
@@ -1525,6 +1548,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Mechanic_Awaken.png"
 	},
 	"balladoftheboundlessblue": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b5/Weapon_Ballad_of_the_Boundless_Blue.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/1/1d/Weapon_Ballad_of_the_Boundless_Blue_2nd.png",
 		"filename_icon": "UI_EquipIcon_Catalyst_DandelionPoem",
 		"filename_awakenIcon": "UI_EquipIcon_Catalyst_DandelionPoem_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Catalyst_DandelionPoem",
@@ -1532,6 +1557,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_DandelionPoem_Awaken.png"
 	},
 	"cashflowsupervision": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/f2/Weapon_Cashflow_Supervision.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Weapon_Cashflow_Supervision_2nd.png",
 		"filename_icon": "UI_EquipIcon_Catalyst_Wheatley",
 		"filename_awakenIcon": "UI_EquipIcon_Catalyst_Wheatley_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Catalyst_Wheatley",
@@ -1539,6 +1566,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Wheatley_Awaken.png"
 	},
 	"tomeoftheeternalflow": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Weapon_Tome_of_the_Eternal_Flow.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Weapon_Tome_of_the_Eternal_Flow_2nd.png",
 		"filename_icon": "UI_EquipIcon_Catalyst_Iudex",
 		"filename_awakenIcon": "UI_EquipIcon_Catalyst_Iudex_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Catalyst_Iudex",
@@ -1546,6 +1575,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Iudex_Awaken.png"
 	},
 	"rangegauge": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/11/Weapon_Range_Gauge.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Weapon_Range_Gauge_2nd.png",
 		"filename_icon": "UI_EquipIcon_Bow_Mechanic",
 		"filename_awakenIcon": "UI_EquipIcon_Bow_Mechanic_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Bow_Mechanic",
@@ -1553,6 +1584,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Mechanic_Awaken.png"
 	},
 	"swordofnarzissenkreuz": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Weapon_Sword_of_Narzissenkreuz_Pneuma.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/3/30/Weapon_Sword_of_Narzissenkreuz_Ousia.png",
 		"filename_icon": "UI_EquipIcon_Sword_Purewill",
 		"filename_awakenIcon": "UI_EquipIcon_Sword_Purewill",
 		"filename_gacha": "UI_Gacha_EquipIcon_Sword_Purewill",
@@ -1560,6 +1593,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Purewill.png"
 	},
 	"splendoroftranquilwaters": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4f/Weapon_Splendor_of_Tranquil_Waters.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Weapon_Splendor_of_Tranquil_Waters_2nd.png",
 		"filename_icon": "UI_EquipIcon_Sword_Regalis",
 		"filename_awakenIcon": "UI_EquipIcon_Sword_Regalis_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Sword_Regalis",
@@ -1567,6 +1602,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Regalis_Awaken.png"
 	},
 	"ultimateoverlordsmegamagicsword": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6e/Weapon_Ultimate_Overlord%27s_Mega_Magic_Sword.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Weapon_Ultimate_Overlord%27s_Mega_Magic_Sword_2nd.png",
 		"filename_icon": "UI_EquipIcon_Claymore_Champion",
 		"filename_awakenIcon": "UI_EquipIcon_Claymore_Champion_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Claymore_Champion",
@@ -1574,6 +1611,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Champion_Awaken.png"
 	},
 	"verdict": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/1d/Weapon_Verdict.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Weapon_Verdict_2nd.png",
 		"filename_icon": "UI_EquipIcon_Claymore_GoldenVerdict",
 		"filename_awakenIcon": "UI_EquipIcon_Claymore_GoldenVerdict_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Claymore_GoldenVerdict",
@@ -1581,6 +1620,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_GoldenVerdict_Awaken.png"
 	},
 	"cranesechoingcall": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/61/Weapon_Crane%27s_Echoing_Call.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7c/Weapon_Crane%27s_Echoing_Call_2nd.png",
 		"filename_icon": "UI_EquipIcon_Catalyst_MountainGale",
 		"filename_awakenIcon": "UI_EquipIcon_Catalyst_MountainGale_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Catalyst_MountainGale",
@@ -1588,6 +1629,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_MountainGale_Awaken.png"
 	},
 	"urakumisugiri": {
+		"icon": "https://static.wikia.nocookie.net/genshinimpact/images/e/e9/Ic%C3%B4ne_Uraku_Misugiri.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Weapon_Uraku_Misugiri_2nd.png",
 		"filename_icon": "UI_EquipIcon_Sword_Needle",
 		"filename_awakenIcon": "UI_EquipIcon_Sword_Needle_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Sword_Needle",
@@ -1595,6 +1638,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Needle_Awaken.png"
 	},
 	"dialoguesofthedesertsages": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Weapon_Dialogues_of_the_Desert_Sages.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/a/ab/Weapon_Dialogues_of_the_Desert_Sages_2nd.png",
 		"filename_icon": "UI_EquipIcon_Pole_Caduceus",
 		"filename_awakenIcon": "UI_EquipIcon_Pole_Caduceus_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Pole_Caduceus",
@@ -1602,6 +1647,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Caduceus_Awaken.png"
 	},
 	"crimsonmoonssemblance": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/82/Weapon_Crimson_Moon%27s_Semblance.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Weapon_Crimson_Moon%27s_Semblance_2nd.png",
 		"filename_icon": "UI_EquipIcon_Pole_BloodMoon",
 		"filename_awakenIcon": "UI_EquipIcon_Pole_BloodMoon_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Pole_BloodMoon",
@@ -1609,6 +1656,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_BloodMoon_Awaken.png"
 	},
 	"absolution": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/5f/Weapon_Absolution.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7a/Weapon_Absolution_2nd.png",
 		"filename_icon": "UI_EquipIcon_Sword_Estoc",
 		"filename_awakenIcon": "UI_EquipIcon_Sword_Estoc_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Sword_Estoc",
@@ -1616,6 +1665,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Estoc_Awaken.png"
 	},
 	"cloudforged": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Weapon_Cloudforged.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/2/25/Weapon_Cloudforged_2nd.png",
 		"filename_icon": "UI_EquipIcon_Bow_Ultimatum",
 		"filename_awakenIcon": "UI_EquipIcon_Bow_Ultimatum_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Bow_Ultimatum",
@@ -1623,6 +1674,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Ultimatum_Awaken.png"
 	},
 	"silvershowerheartstrings": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Weapon_Silvershower_Heartstrings.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Weapon_Silvershower_Heartstrings_2nd.png",
 		"filename_icon": "UI_EquipIcon_Bow_Arcdange",
 		"filename_awakenIcon": "UI_EquipIcon_Bow_Arcdange_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Bow_Arcdange",
@@ -1630,6 +1683,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Arcdange_Awaken.png"
 	},
 	"lumidouceelegy": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/8e/Weapon_Lumidouce_Elegy.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/3/34/Weapon_Lumidouce_Elegy_2nd.png",
 		"filename_icon": "UI_EquipIcon_Pole_Muguet",
 		"filename_awakenIcon": "UI_EquipIcon_Pole_Muguet_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Pole_Muguet",
@@ -1637,6 +1692,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Muguet_Awaken.png"
 	},
 	"fluteofezpitzal": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/31/Weapon_Flute_of_Ezpitzal.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Weapon_Flute_of_Ezpitzal_2nd.png",
 		"filename_icon": "UI_EquipIcon_Sword_Isikhulu",
 		"filename_awakenIcon": "UI_EquipIcon_Sword_Isikhulu_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Sword_Isikhulu",
@@ -1644,6 +1701,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Isikhulu_Awaken.png"
 	},
 	"earthshaker": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/78/Weapon_Earth_Shaker.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6e/Weapon_Earth_Shaker_2nd.png",
 		"filename_icon": "UI_EquipIcon_Claymore_Isikhulu",
 		"filename_awakenIcon": "UI_EquipIcon_Claymore_Isikhulu_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Claymore_Isikhulu",
@@ -1651,6 +1710,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Isikhulu_Awaken.png"
 	},
 	"fangofthemountainking": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Weapon_Fang_of_the_Mountain_King.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Weapon_Fang_of_the_Mountain_King_2nd.png",
 		"filename_icon": "UI_EquipIcon_Claymore_EmeraldSword",
 		"filename_awakenIcon": "UI_EquipIcon_Claymore_EmeraldSword_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Claymore_EmeraldSword",
@@ -1658,6 +1719,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_EmeraldSword_Awaken.png"
 	},
 	"footprintoftherainbow": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d6/Weapon_Footprint_of_the_Rainbow.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/1/1b/Weapon_Footprint_of_the_Rainbow_2nd.png",
 		"filename_icon": "UI_EquipIcon_Pole_Isikhulu",
 		"filename_awakenIcon": "UI_EquipIcon_Pole_Isikhulu_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Pole_Isikhulu",
@@ -1665,6 +1728,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Isikhulu_Awaken.png"
 	},
 	"ashgravendrinkinghorn": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/25/Weapon_Ash-Graven_Drinking_Horn.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/d/da/Weapon_Ash-Graven_Drinking_Horn_2nd.png",
 		"filename_icon": "UI_EquipIcon_Catalyst_ConchSprayer",
 		"filename_awakenIcon": "UI_EquipIcon_Catalyst_ConchSprayer_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Catalyst_ConchSprayer",
@@ -1672,6 +1737,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_ConchSprayer_Awaken.png"
 	},
 	"ringofyaxche": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Weapon_Ring_of_Yaxche.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Weapon_Ring_of_Yaxche_2nd.png",
 		"filename_icon": "UI_EquipIcon_Catalyst_Isikhulu",
 		"filename_awakenIcon": "UI_EquipIcon_Catalyst_Isikhulu_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Catalyst_Isikhulu",
@@ -1679,6 +1746,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Isikhulu_Awaken.png"
 	},
 	"surfsup": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Weapon_Surf%27s_Up.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Weapon_Surf%27s_Up_2nd.png",
 		"filename_icon": "UI_EquipIcon_Catalyst_MechaPufferfish",
 		"filename_awakenIcon": "UI_EquipIcon_Catalyst_MechaPufferfish_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Catalyst_MechaPufferfish",
@@ -1686,6 +1755,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_MechaPufferfish_Awaken.png"
 	},
 	"chainbreaker": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7a/Weapon_Chain_Breaker.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Weapon_Chain_Breaker_2nd.png",
 		"filename_icon": "UI_EquipIcon_Bow_Isikhulu",
 		"filename_awakenIcon": "UI_EquipIcon_Bow_Isikhulu_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Bow_Isikhulu",
@@ -1693,6 +1764,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Isikhulu_Awaken.png"
 	},
 	"sturdybone": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Weapon_Sturdy_Bone.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/f/f7/Weapon_Sturdy_Bone_2nd.png",
 		"filename_icon": "UI_EquipIcon_Sword_Umpakati",
 		"filename_awakenIcon": "UI_EquipIcon_Sword_Umpakati_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Sword_Umpakati",
@@ -1700,6 +1773,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Umpakati_Awaken.png"
 	},
 	"peakpatrolsong": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Weapon_Peak_Patrol_Song.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Weapon_Peak_Patrol_Song_2nd.png",
 		"filename_icon": "UI_EquipIcon_Sword_XochitlsTube",
 		"filename_awakenIcon": "UI_EquipIcon_Sword_XochitlsTube_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Sword_XochitlsTube",
@@ -1707,6 +1782,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_XochitlsTube_Awaken.png"
 	},
 	"fruitfulhook": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/bb/Weapon_Fruitful_Hook.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4b/Weapon_Fruitful_Hook_2nd.png",
 		"filename_icon": "UI_EquipIcon_Claymore_Umpakati",
 		"filename_awakenIcon": "UI_EquipIcon_Claymore_Umpakati_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Claymore_Umpakati",
@@ -1714,6 +1791,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Umpakati_Awaken.png"
 	},
 	"mountainbracingbolt": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/66/Weapon_Mountain-Bracing_Bolt.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Weapon_Mountain-Bracing_Bolt_2nd.png",
 		"filename_icon": "UI_EquipIcon_Pole_Umpakati",
 		"filename_awakenIcon": "UI_EquipIcon_Pole_Umpakati_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Pole_Umpakati",
@@ -1721,6 +1800,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Umpakati_Awaken.png"
 	},
 	"calamityofeshu": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Weapon_Calamity_of_Eshu.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/0/00/Weapon_Calamity_of_Eshu_2nd.png",
 		"filename_icon": "UI_EquipIcon_Sword_SacrificialNgombe",
 		"filename_awakenIcon": "UI_EquipIcon_Sword_SacrificialNgombe_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Sword_SacrificialNgombe",
@@ -1728,6 +1809,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_SacrificialNgombe_Awaken.png"
 	},
 	"waveridingwhirl": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/99/Weapon_Waveriding_Whirl.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Weapon_Waveriding_Whirl_2nd.png",
 		"filename_icon": "UI_EquipIcon_Catalyst_Umpakati",
 		"filename_awakenIcon": "UI_EquipIcon_Catalyst_Umpakati_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Catalyst_Umpakati",
@@ -1735,6 +1818,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Umpakati_Awaken.png"
 	},
 	"flowerwreathedfeathers": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Weapon_Flower-Wreathed_Feathers.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/0/09/Weapon_Flower-Wreathed_Feathers_2nd.png",
 		"filename_icon": "UI_EquipIcon_Bow_Umpakati",
 		"filename_awakenIcon": "UI_EquipIcon_Bow_Umpakati_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Bow_Umpakati",
@@ -1742,6 +1827,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Umpakati_Awaken.png"
 	},
 	"astralvulturescrimsonplumage": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Weapon_Astral_Vulture%27s_Crimson_Plumage.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/c/c7/Weapon_Astral_Vulture%27s_Crimson_Plumage_2nd.png",
 		"filename_icon": "UI_EquipIcon_Bow_Qoyllorsnova",
 		"filename_awakenIcon": "UI_EquipIcon_Bow_Qoyllorsnova_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Bow_Qoyllorsnova",
@@ -1749,6 +1836,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Qoyllorsnova_Awaken.png"
 	},
 	"athousandblazingsuns": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Weapon_A_Thousand_Blazing_Suns.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Weapon_A_Thousand_Blazing_Suns_2nd.png",
 		"filename_icon": "UI_EquipIcon_Claymore_RadianceSword",
 		"filename_awakenIcon": "UI_EquipIcon_Claymore_RadianceSword_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Claymore_RadianceSword",
@@ -1756,6 +1845,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_RadianceSword_Awaken.png"
 	},
 	"starcallerswatch": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a4/Weapon_Starcaller%27s_Watch.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b0/Weapon_Starcaller%27s_Watch_2nd.png",
 		"filename_icon": "UI_EquipIcon_Catalyst_Figurines",
 		"filename_awakenIcon": "UI_EquipIcon_Catalyst_Figurines_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Catalyst_Figurines",
@@ -1763,6 +1854,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Figurines_Awaken.png"
 	},
 	"tamayurateinoohanashi": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/53/Weapon_Tamayuratei_no_Ohanashi.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/5/5c/Weapon_Tamayuratei_no_Ohanashi_2nd.png",
 		"filename_icon": "UI_EquipIcon_Pole_Aoandon",
 		"filename_awakenIcon": "UI_EquipIcon_Pole_Aoandon_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Pole_Aoandon",
@@ -1770,6 +1863,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Aoandon_Awaken.png"
 	},
 	"sunnymorningsleepin": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Weapon_Sunny_Morning_Sleep-In.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/f/f0/Weapon_Sunny_Morning_Sleep-In_2nd.png",
 		"filename_icon": "UI_EquipIcon_Catalyst_SakuraFan",
 		"filename_awakenIcon": "UI_EquipIcon_Catalyst_SakuraFan_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Catalyst_SakuraFan",
@@ -1777,6 +1872,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_SakuraFan_Awaken.png"
 	},
 	"vividnotions": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/63/Weapon_Vivid_Notions.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/1/1e/Weapon_Vivid_Notions_2nd.png",
 		"filename_icon": "UI_EquipIcon_Catalyst_VaresaTransformer",
 		"filename_awakenIcon": "UI_EquipIcon_Catalyst_VaresaTransformer_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Catalyst_VaresaTransformer",
@@ -1784,6 +1881,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_VaresaTransformer_Awaken.png"
 	},
 	"symphonistofscents": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Weapon_Symphonist_of_Scents.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/2/20/Weapon_Symphonist_of_Scents_2nd.png",
 		"filename_icon": "UI_EquipIcon_Pole_Trident",
 		"filename_awakenIcon": "UI_EquipIcon_Pole_Trident_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Pole_Trident",
@@ -1791,6 +1890,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Trident_Awaken.png"
 	},
 	"sequenceofsolitude": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Weapon_Sequence_of_Solitude.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6e/Weapon_Sequence_of_Solitude_2nd.png",
 		"filename_icon": "UI_EquipIcon_Bow_Stinger",
 		"filename_awakenIcon": "UI_EquipIcon_Bow_Stinger_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Bow_Stinger",
@@ -1798,6 +1899,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Stinger_Awaken.png"
 	},
 	"azurelight": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/bd/Weapon_Azurelight.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/9/92/Weapon_Azurelight_2nd.png",
 		"filename_icon": "UI_EquipIcon_Sword_OuterSword",
 		"filename_awakenIcon": "UI_EquipIcon_Sword_OuterSword_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Sword_OuterSword",
@@ -1805,6 +1908,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_OuterSword_Awaken.png"
 	},
 	"flameforgedinsight": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Weapon_Flame-Forged_Insight.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/8/86/Weapon_Flame-Forged_Insight_2nd.png",
 		"filename_icon": "UI_EquipIcon_Claymore_Polilith",
 		"filename_awakenIcon": "UI_EquipIcon_Claymore_Polilith_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Claymore_Polilith",
@@ -1812,6 +1917,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Polilith_Awaken.png"
 	},
 	"fracturedhalo": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/10/Weapon_Fractured_Halo.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Weapon_Fractured_Halo_2nd.png",
 		"filename_icon": "UI_EquipIcon_Pole_Perdix",
 		"filename_awakenIcon": "UI_EquipIcon_Pole_Perdix_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Pole_Perdix",
@@ -1819,6 +1926,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Perdix_Awaken.png"
 	},
 	"serenityscall": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/fe/Weapon_Serenity%27s_Call.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Weapon_Serenity%27s_Call_2nd.png",
 		"filename_icon": "UI_EquipIcon_Sword_Ilmarinen",
 		"filename_awakenIcon": "UI_EquipIcon_Sword_Ilmarinen_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Sword_Ilmarinen",
@@ -1826,6 +1935,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Ilmarinen_Awaken.png"
 	},
 	"moonweaversdawn": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Weapon_Moonweaver%27s_Dawn.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/3/34/Weapon_Moonweaver%27s_Dawn_2nd.png",
 		"filename_icon": "UI_EquipIcon_Sword_Miekka",
 		"filename_awakenIcon": "UI_EquipIcon_Sword_Miekka_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Sword_Miekka",
@@ -1833,6 +1944,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Miekka_Awaken.png"
 	},
 	"masterkey": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/82/Weapon_Master_Key.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Weapon_Master_Key_2nd.png",
 		"filename_icon": "UI_EquipIcon_Claymore_Ilmarinen",
 		"filename_awakenIcon": "UI_EquipIcon_Claymore_Ilmarinen_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Claymore_Ilmarinen",
@@ -1840,6 +1953,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Ilmarinen_Awaken.png"
 	},
 	"prospectorsshovel": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/fc/Weapon_Prospector%27s_Shovel.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/c/cd/Weapon_Prospector%27s_Shovel_2nd.png",
 		"filename_icon": "UI_EquipIcon_Pole_Ilmarinen",
 		"filename_awakenIcon": "UI_EquipIcon_Pole_Ilmarinen_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Pole_Ilmarinen",
@@ -1847,6 +1962,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Ilmarinen_Awaken.png"
 	},
 	"bloodsoakedruins": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/79/Weapon_Bloodsoaked_Ruins.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Weapon_Bloodsoaked_Ruins_2nd.png",
 		"filename_icon": "UI_EquipIcon_Pole_TummaLyhty",
 		"filename_awakenIcon": "UI_EquipIcon_Pole_TummaLyhty_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Pole_TummaLyhty",
@@ -1854,6 +1971,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_TummaLyhty_Awaken.png"
 	},
 	"etherlightspindlelute": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Weapon_Etherlight_Spindlelute.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/1/19/Weapon_Etherlight_Spindlelute_2nd.png",
 		"filename_icon": "UI_EquipIcon_Catalyst_SeeliesLute",
 		"filename_awakenIcon": "UI_EquipIcon_Catalyst_SeeliesLute_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Catalyst_SeeliesLute",
@@ -1861,6 +1980,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_SeeliesLute_Awaken.png"
 	},
 	"blackmarrowlantern": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/c/c7/Weapon_Blackmarrow_Lantern.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Weapon_Blackmarrow_Lantern_2nd.png",
 		"filename_icon": "UI_EquipIcon_Catalyst_Ilmarinen",
 		"filename_awakenIcon": "UI_EquipIcon_Catalyst_Ilmarinen_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Catalyst_Ilmarinen",
@@ -1868,6 +1989,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Ilmarinen_Awaken.png"
 	},
 	"nightweaverslookingglass": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Weapon_Nightweaver%27s_Looking_Glass.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/f/f2/Weapon_Nightweaver%27s_Looking_Glass_2nd.png",
 		"filename_icon": "UI_EquipIcon_Catalyst_MenulisRing",
 		"filename_awakenIcon": "UI_EquipIcon_Catalyst_MenulisRing_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Catalyst_MenulisRing",
@@ -1875,6 +1998,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_MenulisRing_Awaken.png"
 	},
 	"snarehook": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/c/c8/Weapon_Snare_Hook.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Weapon_Snare_Hook_2nd.png",
 		"filename_icon": "UI_EquipIcon_Bow_Ilmarinen",
 		"filename_awakenIcon": "UI_EquipIcon_Bow_Ilmarinen_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Bow_Ilmarinen",
@@ -1882,6 +2007,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Ilmarinen_Awaken.png"
 	},
 	"sacrificersstaff": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/40/Weapon_Sacrificer%27s_Staff.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/8/8f/Weapon_Sacrificer%27s_Staff_2nd.png",
 		"filename_icon": "UI_EquipIcon_Pole_Krivule",
 		"filename_awakenIcon": "UI_EquipIcon_Pole_Krivule_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Pole_Krivule",
@@ -1889,6 +2016,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Krivule_Awaken.png"
 	},
 	"dawningfrost": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/0d/Weapon_Dawning_Frost.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Weapon_Dawning_Frost_2nd.png",
 		"filename_icon": "UI_EquipIcon_Catalyst_Ziedas",
 		"filename_awakenIcon": "UI_EquipIcon_Catalyst_Ziedas_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Catalyst_Ziedas",
@@ -1896,6 +2025,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Ziedas_Awaken.png"
 	},
 	"reliquaryoftruth": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/86/Weapon_Reliquary_of_Truth.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/5/5b/Weapon_Reliquary_of_Truth_2nd.png",
 		"filename_icon": "UI_EquipIcon_Catalyst_Sistrum",
 		"filename_awakenIcon": "UI_EquipIcon_Catalyst_Sistrum_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Catalyst_Sistrum",
@@ -1903,6 +2034,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Sistrum_Awaken.png"
 	},
 	"athameartis": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/83/Weapon_Athame_Artis.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/1/13/Weapon_Athame_Artis_2nd.png",
 		"filename_icon": "UI_EquipIcon_Sword_Motsognir",
 		"filename_awakenIcon": "UI_EquipIcon_Sword_Motsognir_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Sword_Motsognir",
@@ -1910,6 +2043,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Motsognir_Awaken.png"
 	},
 	"rainbowserpentsrainbow": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6e/Weapon_Rainbow_Serpent%27s_Rain_Bow.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Weapon_Rainbow_Serpent%27s_Rain_Bow_2nd.png",
 		"filename_icon": "UI_EquipIcon_Bow_ElegguaBow",
 		"filename_awakenIcon": "UI_EquipIcon_Bow_ElegguaBow_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Bow_ElegguaBow",
@@ -1917,6 +2052,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_ElegguaBow_Awaken.png"
 	},
 	"thedaybreakchronicles": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/5c/Weapon_The_Daybreak_Chronicles.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Weapon_The_Daybreak_Chronicles_2nd.png",
 		"filename_icon": "UI_EquipIcon_Bow_Arianna",
 		"filename_awakenIcon": "UI_EquipIcon_Bow_Arianna_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Bow_Arianna",
@@ -1924,6 +2061,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Arianna_Awaken.png"
 	},
 	"lightbearingmoonshard": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/f6/Weapon_Lightbearing_Moonshard.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e6/Weapon_Lightbearing_Moonshard_2nd.png",
 		"filename_icon": "UI_EquipIcon_Sword_SilverwareSaw",
 		"filename_awakenIcon": "UI_EquipIcon_Sword_SilverwareSaw_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Sword_SilverwareSaw",
@@ -1931,6 +2070,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_SilverwareSaw_Awaken.png"
 	},
 	"nocturnescurtaincall": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/24/Weapon_Nocturne%27s_Curtain_Call.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/5/53/Weapon_Nocturne%27s_Curtain_Call_2nd.png",
 		"filename_icon": "UI_EquipIcon_Catalyst_Brisingamen",
 		"filename_awakenIcon": "UI_EquipIcon_Catalyst_Brisingamen_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Catalyst_Brisingamen",
@@ -1938,6 +2079,8 @@
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Brisingamen_Awaken.png"
 	},
 	"gestofthemightywolf": {
+		"icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/3b/Weapon_Gest_of_the_Mighty_Wolf.png",
+		"awakenicon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Weapon_Gest_of_the_Mighty_Wolf_2nd.png",
 		"filename_icon": "UI_EquipIcon_Claymore_EnsisAquilonis",
 		"filename_awakenIcon": "UI_EquipIcon_Claymore_EnsisAquilonis_Awaken",
 		"filename_gacha": "UI_Gacha_EquipIcon_Claymore_EnsisAquilonis",
