@@ -183,5 +183,47 @@
 				"count": 24
 			}
 		]
-	}
+	},
+	"story": [
+		{
+			"title": "Character Details",
+			"unlock": "",
+			"story": "Razor is a boy whose identity is shrouded in mystery. He lives in Wolvendom and is rarely spotted by the citizens of Mondstadt.\n\nAccording to a handful of eyewitness accounts, Razor has keen senses and is highly agile, traversing the forest at breakneck speed. He is often seen in the company of his wolf pack, while generally avoiding contact with humans.\n\nSome speculate that he was an orphan raised by the wolves, while others say he is a wolf spirit that has taken on a human form.\n\nSuch rumors only add to the mystery of the \"Wolf Boy,\" as the denizens of Mondstadt call him.\n\nMeanwhile, Razor the Wolf Boy stands all the while on the hilltops with his head held high, basking in the warm sunlight."
+		},
+		{
+			"title": "Character Story 1",
+			"unlock": "Friendship Lvl. 2",
+			"story": "Razor lives among the wolves night and day.\n\nAll of them are as close with Razor as they could possibly be. Which wolf has the loudest howl, which wolf runs the fastest, which wolf is the best at ambushing — there isn't a wolf Razor doesn't know.\n\nHe can sense the mood of the wind, smell a scent from miles away, and knows many practical applications for plants of all kinds. The one thing he can't bring to mind is the faces of his parents.\n\nWhat kind of people were they? No matter how hard he tries, he cannot remember.\n\nHis memory starts after his life with the wolves had already begun. The wolves took him in as part of their \"Lupical\" — a word he was taught by someone else, which means family."
+		},
+		{
+			"title": "Character Story 2",
+			"unlock": "Friendship Lvl. 3",
+			"story": "Tiny singing things are flying in the sky.\n\nThe clouds are long and fluffy, like a wolf's tail.\n\nRazor's world is a simple one.\n\nOn a sunny day, you run around hunting or try and beat your prey to the ripe fruits, on a rainy day, you hide out in a hollow tree and fall asleep hugging a furry lupine friend, with some grass and leaves for a pillow.\n\nEat as much as you can and drink plenty of water. Cool off in the lake when you're hot, and go find some juicy berries when you're thirsty.\n\nRazor looks at his body and then at the bodies of his kin.\n\nHe knows he is different from them.\n\nBut there's nothing wrong with that, as far as Razor is concerned."
+		},
+		{
+			"title": "Character Story 3",
+			"unlock": "Friendship Lvl. 4",
+			"story": "One day, a tall man came to the mountains and disrupted Razor's peaceful life.\n\nRazor did not know who the man was, only that he was a human. Seeing the confused look on Razor's face, the man gave him a friendly smile.\n\n\"Hey buddy! Why don't you come back down to Mondstadt with me?\"\n\nThe man offered his hand to Razor as he spoke.\n\nBut neither Razor nor the wolves understood the gesture. Feeling protective, the wolves placed themselves between Razor and the man to keep him away.\n\nRazor ducked down beneath the wolves' furry tails. He looked at his body, and then peered out through the gaps in the wolf fur to get a look at the man's.\n\nRazor knew he wasn't the most intelligent of beings, and was at a loss to answer the question that has been in his mind ever since that day.\n\n\"Am I a human, or a wolf?\""
+		},
+		{
+			"title": "Character Story 4",
+			"unlock": "Friendship Lvl. 5",
+			"story": "It was that man who gave Razor his name.\n\nThe simple Wolf Boy could not understand the intricacies of human language, but he knew from the look on the man's face when he produced this sound that the man was giving him a name.\n\n\"Rae-zer.\"\n\nThe shadows cast by the trees of Wolvendom grew short, and then grew long again.\n\nThe man taught Razor how to swing a sword. Unwieldy though this steel claw may be, thought Razor, it was at least sharp enough to cut through tree branches.\n\n\"Now you can protect your friends.\"\n\n\"Fr-ren-dzz...\"\n\nRazor imitated the sounds the man made, without understanding what they meant.\n\nSimilarly, he did not understand why the names of things were all that important in the first place. After all, he never learned the name of that man before he left."
+		},
+		{
+			"title": "Character Story 5",
+			"unlock": "Friendship Lvl. 6",
+			"story": "\"Master, what is... 'friends'?\"\n\nRazor once asked of his new mentor, working at the limits of his vocabulary.\n\nHis purple-clothed mentor seemed to know it all, from how to make hash browns from potatoes in the ground, to the name of the brightest star in the summer night sky.\n\nHowever, Lisa simply smiled and yawned without answering him.\n\nRazor thought about it when the wind blew, when the rain fell — even when Wolfhook berries got stuck in his fur. He just couldn't figure it out.\n\nUntil one day, Razor met a bright-red, 'burny' girl.\n\nThey stood in the wind together, got soaked in the rain together — she even rolled around in Wolfhook bushes with him.\n\nHer name was Klee. When Razor played with her, it was like being a wolf pup again.\n\n\"Friends... is... Lupical.\"\n\nRazor may not understand the complexity of human relationships, but he has an honest, primal loyalty to him.\n\n\"So... protect friends... Lupical... with life.\"\n\nThe wolf pack howls in the distance, summoning him home.\n\nRazor still does not know if he is a human or a wolf.\n\nBut he is happy either way."
+		},
+		{
+			"title": "Razor's Crude Wooden Crate",
+			"unlock": "Friendship Lvl. 4",
+			"story": "In a box so crudely made that one has to be extra careful when opening it lies Razor's greatest treasures.\n\nThe broken-off hilt of a greatsword, a children's storybook called The Wolf and the Windwheel Aster, and a dry, withered four-leaf clover.\n\nThough he understands neither the intricacies of human relations nor the ways of the world, Razor knows that these are gifts from the ones known as 'friends' — and that is what makes them his most treasured possessions of all."
+		},
+		{
+			"title": "Vision",
+			"unlock": "Friendship Lvl. 6",
+			"story": "The story of how Razor got his Vision is one of the few memories that he wishes he could forget.\n\nOne day, during a lightning storm, an Abyss Mage ambushed Razor from behind and dragged him away. The wolf pack ran to his aid and put up a fearless fight, but every last one of them was defeated by the Abyss Mage.\n\nAs he looked on helplessly at his dear companions being harmed, Razor let out an almighty roar like that of a cornered animal.\n\n\"Lupical!\"\n\nFueled by his almighty fury, a lightning-like power grew inside, and suddenly an overload of elemental energy was flowing within him.\n\nHe was ready to protect. He was ready to avenge.\n\nHe threw off his shackles and raised his weapon.\n\nThe Abyss Mage was overwhelmed and defeated by a wild, unfettered frenzy of Electro energy, but this time it was too late to save Razor's wolven companions.\n\n...\n\nThough he had obtained a Vision, Razor was still unable to manipulate Electro energy with finesse. One day many moons later, when he met the Witch of Purple Rose, Lisa, he began to study human knowledge.\n\n\"Friends, hurt... Never again! I will... protect them.\"\n\nWith each day, Razor grew more skilled in the use of his Vision. He made a silent promise to himself: \"I will become stronger. I will become the strongest of them all.\"\n\nBecause the day may come when his Lupical faces another threat, and this time, he will protect them."
+		}
+	]
 }

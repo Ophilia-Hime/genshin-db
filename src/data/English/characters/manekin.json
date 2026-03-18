@@ -69,46 +69,5 @@
 			}
 		]
 	},
-	"story": [
-		{
-			"title": "Character Details",
-			"unlock": "",
-			"story": ""
-		},
-		{
-			"title": "Character Story 1",
-			"unlock": "Friendship Lvl. 2",
-			"story": ""
-		},
-		{
-			"title": "Character Story 2",
-			"unlock": "Friendship Lvl. 3",
-			"story": ""
-		},
-		{
-			"title": "Character Story 3",
-			"unlock": "Friendship Lvl. 4",
-			"story": ""
-		},
-		{
-			"title": "Character Story 4",
-			"unlock": "Friendship Lvl. 5",
-			"story": ""
-		},
-		{
-			"title": "Character Story 5",
-			"unlock": "Friendship Lvl. 6",
-			"story": ""
-		},
-		{
-			"title": "",
-			"unlock": "Friendship Lvl. 4",
-			"story": ""
-		},
-		{
-			"title": "Vision",
-			"unlock": "Friendship Lvl. 6",
-			"story": ""
-		}
-	]
+	"story": []
 }
